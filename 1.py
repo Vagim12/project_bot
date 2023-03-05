@@ -3,7 +3,7 @@ import logging
 
 logger = logging.getLogger('discord')
 logger.setLevel(logging.INFO)
-TOKEN = "OTEwMTc4OTEzMTY5MzIyMDQ1.GguIrK.mpVtP0c-k0kiBWGRLTvRiZ63R3S3jd8ej2l8u4"
+TOKEN = ""
 
 
 class YLBotClient(discord.Client):
