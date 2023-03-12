@@ -6,7 +6,7 @@ import re
 import urllib
 
 config = {
-    'token': 'OTEwMTc4OTEzMTY5MzIyMDQ1.GBPAtY._1mrq4HNtyZ4PT7fyKyjUTips12YRwVlw8fxwo',
+    'token': '',
     'prefix': '$',}
 intents = discord.Intents.default()
 intents.members = True
