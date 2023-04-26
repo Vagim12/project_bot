@@ -26,7 +26,7 @@ afk_list = []
 class Bot(commands.Bot):
     def __init__(self):
         super().__init__(
-            token="oauth:8633bmzy890o7alhrt6fvm1tvq45jx", #возможно токен деактивируется, из-за попадания в открый доступ
+            token="", #возможно токен деактивируется, из-за попадания в открый доступ
             prefix="$", #Префикс потом заменю на более удобный в использовании 
             initial_channels=["striginae", "alexproduct"],
         )
